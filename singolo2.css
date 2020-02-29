@@ -1,0 +1,221 @@
+@font-face{
+    font-family: Lato-Black;
+    src: url(assets/Lato-Black.ttf)
+}
+@font-face{
+    font-family: Lato-Light;
+    src: url(assets/Lato-Light.ttf);
+}
+@font-face{
+    font-family: Lato-Regular;
+    src: url(assets/Lato-Regular.ttf);
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    border: 1px solid white;
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 auto;
+    
+}
+header{
+    padding: 0px;
+    margin: 0px;
+    background-color: #2d303a;
+    height: auto;
+    
+}
+h1{margin: 0px;
+    padding: 0px;
+    font-family: Lato-Black;
+    font-size: 30px;
+    color: #666d89;
+    padding-top: 60px;
+    padding-left: 0px;
+}
+blockquote{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    margin: 0px;
+    padding: 0px;
+    font-family: Lato-Light;
+    font-size: 18px;
+    padding-top: 22px;
+    padding-left: 0px;
+    color: #676e8a;
+    }
+    .containerButton{
+        margin: 0px;
+        padding: 0px;
+        display: flex;        
+        padding-top: 0px;
+    }
+button{
+    margin: 0px;
+    padding: 0px;
+    height: 20px;
+    width: 30px;
+    border: 1px solid white;
+    font-family: Lato-Regular;
+    font-size: 12px;
+    color: #dedede;
+    border-radius: 5px;
+    background: transparent;
+    margin-top: 15px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+.box .two{
+    width: 78px;
+    margin-left: 10px;
+}
+.box .three{
+    width: 95px;
+    margin-left: 8px;
+}
+.box .four{
+    width: 59px;
+    margin-left: 8px;
+}
+button:hover{
+    background-color: #444d6b;
+}
+
+.containerImg{
+    border: 1px solid white;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 687px;
+    width: 940px;
+    align-content: space-between;  
+    margin-left: 0px;
+    }
+    
+.imgBox-1{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 20px;
+    width: 220px;
+    height: 187px;
+    
+}
+.bottomLine-1{
+    background-color: #323746;
+    height: 5px;
+}
+.aboutUs{
+    background-color: #f2f2f2;
+    height: auto;
+}
+
+.aboutUs h2{
+    margin: 0px;
+    padding: 0px;
+font-family: Lato-Black;
+font-size: 30px;
+color: #666d89;
+padding-top: 58px;
+padding-bottom: 0px;
+
+}
+.aboutUs p{
+    margin: 0px;
+    padding: 0px;
+    font-size: 18px;
+    font-family: Lato-Light;
+    color: #666d89;    
+    padding-top: 20px;
+    line-height: 27px;
+    text-align: justify;
+}
+.container-1{
+    
+    width: 940px;
+    margin: 0 auto;
+    
+    
+}
+.color{
+    background-color: #f2f2f2;
+}
+.containerAboutUs{
+    align-content: space-between;
+    width: 940px;
+    height: 510px;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    flex-direction: column;
+    flex-wrap: wrap;
+     
+    margin-left: 0px;
+    padding-top: 47px;
+    }
+    .containerAboutUs img{
+        
+        margin: 0px;
+        padding: 0px;
+        width: 300px;
+        height: 300px;
+        margin-bottom: 15px;
+    }
+ .containerAboutUs blockquote{
+     margin: 0px;
+     padding: 0px;
+ }   
+.containerAboutUs h2{
+    
+    margin: 0px;
+    padding: 0px;
+    font-family: Lato-Black;
+    font-size: 18px;
+    color: #666d89;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.containerAboutUs p{
+    width: 300px;
+    margin: 0px;
+    padding: 0px;
+    font-family: Lato-Regular;
+    font-size: 12px;
+    color: #666d89;
+    text-align: justify;
+    line-height: 20px;
+
+}
+.adamJ{
+    word-spacing: -0.5px;
+ text-align: justify;  
+}
+.containerAboutUs .facebook{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 23px;
+    padding-right: 3px;
+    height: 33px;
+    width: 33px;
+    text-align: left;
+    
+}
+.bottomLine-2{
+    background-color: #ffffff;
+    height: 5px;
+}
+
+
+
+
+
+
+
+
+
